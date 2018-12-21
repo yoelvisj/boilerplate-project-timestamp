@@ -22,7 +22,8 @@
 		"node",
 		"hyperdev",
 		"express",
-		"freecodecamp"
+		"freecodecamp",
+		"api"
 	],
 	"license": "MIT"
 }
